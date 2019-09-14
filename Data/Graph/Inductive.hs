@@ -17,7 +17,7 @@ import Data.Graph.Inductive.Graph         as I
 import Data.Graph.Inductive.Monad         as I
 import Data.Graph.Inductive.Monad.IOArray as I
 import Data.Graph.Inductive.NodeMap       as I
-import Data.Graph.Inductive.PatriciaTree  as I
+import Data.Graph.Inductive.PatriciaTree  as I (Gr, UGr)
 import Data.Graph.Inductive.Query         as I
 
 import           Data.Version (showVersion)
